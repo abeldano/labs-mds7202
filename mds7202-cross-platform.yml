@@ -1,0 +1,13 @@
+name: mds7202
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - black
+  - plotly
+  - jupyterlab_code_formatter
+  - scikit-learn
+  - numpy
+  - pandas
+  - jupyterlab
+prefix: C:\Users\Sebastian\.conda\envs\mds7202
